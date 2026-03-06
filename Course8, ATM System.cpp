@@ -153,7 +153,7 @@ bool Deposit(stClient& stClientInfo)
 
     do
         AmountToDeposit = BankLib::ReadInt("\nEnter an positive Deposit Amount? ");
-    while (AmountToDeposit % 5 != 0 && AmountToDeposit > 0);
+    while (AmountToDeposit < 0);
 
     if (!BankLib::YOrNQuestion("\n\nAre you sure you want perform this transactions? y/n ? "))
     {
@@ -216,4 +216,7 @@ void AtmMainControlPanel()
 int main()
 {  
     AtmMainControlPanel();  
+    system("pause>0");
+
+    return 0;
 }
