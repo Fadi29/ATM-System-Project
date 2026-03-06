@@ -1,0 +1,23 @@
+﻿  Course8, ATM System.cpp
+C:\Users\M.S.I\source\repos\Course8, ATM System\ATM-System-Project\StringLib.h(201,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Course8,%20ATM%20System.cpp')
+  
+C:\Users\M.S.I\source\repos\Course8, ATM System\ATM-System-Project\StringLib.h(221,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Course8,%20ATM%20System.cpp')
+  
+C:\Users\M.S.I\source\repos\Course8, ATM System\ATM-System-Project\StringLib.h(241,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Course8,%20ATM%20System.cpp')
+  
+C:\Users\M.S.I\source\repos\Course8, ATM System\ATM-System-Project\StringLib.h(266,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Course8,%20ATM%20System.cpp')
+  
+C:\Users\M.S.I\source\repos\Course8, ATM System\ATM-System-Project\StringLib.h(348,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Course8,%20ATM%20System.cpp')
+  
+C:\Users\M.S.I\source\repos\Course8, ATM System\ATM-System-Project\StringLib.h(351,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Course8,%20ATM%20System.cpp')
+  
+C:\Users\M.S.I\source\repos\Course8, ATM System\ATM-System-Project\StringLib.h(657,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Course8,%20ATM%20System.cpp')
+  
+  Course8, ATM System.vcxproj -> C:\Users\M.S.I\source\repos\Course8, ATM System\ATM-System-Project\x64\Debug\Course8, ATM System.exe
