@@ -54,3 +54,12 @@ Description: Ends the current user session securely and returns to the login scr
 Description: Safely shuts down the application while ensuring all transaction data is permanently saved to the database file.
 <img width="1120" height="587" alt="End" src="https://github.com/user-attachments/assets/51feab5d-baa4-4fe1-a019-3190b5121e9e" />
 
+
+## 🌟 Future Goals & Roadmap
+This project is part of my dedicated **Gap Year** journey, where I am sharpening my software engineering skills and building a solid technical foundation. 
+My next steps include:
+- Implementing **Object-Oriented Programming (OOP)** principles to enhance code reusability.
+- Adding a **Multi-User Admin Panel** for managing client records.
+- Transitioning the interface from Console to a **Graphical User Interface (GUI)**.
+  ---
+*“Programming isn't just about what you know; it's about what you can figure out.”* **Happy Coding! 🚀**
